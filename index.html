@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tienda de Ropa</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/clothes-favicon.png" type="image/png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="js/main.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo-carrito">
+            <img id="btnCheckout" src="images/clothes-64.png" title="">
+        </div>
+        <div class="header" id="header">
+            <h1 id="titulo">Espero "te prendas"</h1>
+            <h2 id="slogan">Tienda online de indumentaria</h2>
+            <div class="carrito">
+                <p>Productos en el carrito:<span id="spanContadorCarrito">0</span></p>
+            </div>
+        </div>
+    </header>
+    <!-- Modal Carrito -->
+    <div id="modalCarrito" class="modal-carrito" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.5); z-index:1000; justify-content:center; align-items:center;">
+        <div style="background:gray; border-radius:10px; padding:30px; max-width:400px; width:90%; margin:auto; position:relative;">
+            <h2>Carrito de compras</h2>
+            <div id="carritoContenido"></div>
+            <button id="btnCerrarCarrito" class="button" style="margin-top:20px;">Cerrar</button>
+        </div>
+    </div>
+    <main>
+        <div class="search-cart">
+            <input type="search" id="inputBuscar" placeholder="Producto a buscar..." autocomplete="off">
+        </div>
+
+        <div class="container">
+
+        </div>
+    </main>
+    <footer>
+        <p id="pFooter">Copyright 2024 - Coki Argento</p>
+    </footer>
+</body>
+
+</html>

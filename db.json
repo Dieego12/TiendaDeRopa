@@ -1,0 +1,24 @@
+{
+  "prendasdevestir": [
+    { "id": 1, "codigo": "A001", "nombre": "Remera básica", "importe": 2500, "imagen": "👕" },
+    { "id": 2, "codigo": "A002", "nombre": "Pantalón jean", "importe": 4800, "imagen": "👖" },
+    { "id": 3, "codigo": "A003", "nombre": "Campera deportiva", "importe": 7500, "imagen": "🧥" },
+    { "id": 4, "codigo": "A004", "nombre": "Vestido casual", "importe": 5200, "imagen": "👗" },
+    { "id": 5, "codigo": "A005", "nombre": "Short de verano", "importe": 2100, "imagen": "🩳" },
+    { "id": 6, "codigo": "A006", "nombre": "Buzo canguro", "importe": 3900, "imagen": "🧢" },
+    { "id": 7, "codigo": "A007", "nombre": "Camisa manga larga", "importe": 3400, "imagen": "👔" },
+    { "id": 8, "codigo": "A008", "nombre": "Pollera plisada", "importe": 3100, "imagen": "👚" },
+    { "id": 9, "codigo": "A009", "nombre": "Sweater de lana", "importe": 4300, "imagen": "🧶" },
+    { "id": 10, "codigo": "A010", "nombre": "Chaleco inflable", "importe": 3700, "imagen": "🦺" },
+    { "id": 11, "codigo": "A011", "nombre": "Zapatillas deportivas", "importe": 6200, "imagen": "👟" },
+    { "id": 12, "codigo": "A012", "nombre": "Sandalias de cuero", "importe": 2700, "imagen": "🥿" },
+    { "id": 13, "codigo": "A013", "nombre": "Botines de fútbol", "importe": 5400, "imagen": "🥾" },
+    { "id": 14, "codigo": "A014", "nombre": "Gorra urbana", "importe": 1200, "imagen": "🧢" },
+    { "id": 15, "codigo": "A015", "nombre": "Bufanda tejida", "importe": 900, "imagen": "🧣" },
+    { "id": 16, "codigo": "A016", "nombre": "Guantes de invierno", "importe": 1100, "imagen": "🧤" },
+    { "id": 17, "codigo": "A017", "nombre": "Pijama estampado", "importe": 2600, "imagen": "🛌" },
+    { "id": 18, "codigo": "A018", "nombre": "Traje de baño", "importe": 1800, "imagen": "🩱" },
+    { "id": 19, "codigo": "A019", "nombre": "Corbata elegante", "importe": 800, "imagen": "👔" },
+    { "id": 20, "codigo": "A020", "nombre": "Medias largas", "importe": 600, "imagen": "🧦" }
+  ]
+}

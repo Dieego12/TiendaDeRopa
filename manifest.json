@@ -1,0 +1,68 @@
+{
+    "short_name": "PRENDAS",
+    "name": "Espero te prendas",
+    "version": "1.0.1",
+    "start_url": "/",
+    "background_color": "#B6B9C2",
+    "theme_color": "#B6B9C2",
+    "description": "Espero 'Te Prendas' es una aplicación progresiva de ejemplo, que utiliza la tecnología PWA.",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./images/clothes-64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "./images/clothes-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./images/clothes-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./images/clothes-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./images/clothes-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "./images/clothes-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+        
+    ],
+    "screenshots": [
+        {
+            "src": "./images/screenshot390x790.png",
+            "sizes": "389x790",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Espero te prendas en versión mobile"
+        },
+        {
+            "src": "./images/screenshot441x625.png",
+            "sizes": "441x625",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Espero te prendas en versión mobile"
+        },
+        {
+            "src": "./images/screenshot1623x992.png",
+            "sizes": "1623x992",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Espero te prendas para computadoras de escritorio"
+        }
+    ]
+}
